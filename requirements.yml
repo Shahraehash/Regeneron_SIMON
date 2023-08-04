@@ -1,0 +1,36 @@
+name: slow5
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - bzip2=1.0.8=h7b6447c_0
+  - c-ares=1.19.0=h5eee18b_0
+  - ca-certificates=2023.05.30=h06a4308_0
+  - curl=7.62.0=hbc83047_0
+  - hdf5=1.10.6=h3ffc7dd_1
+  - htslib=1.9=h4da6232_3
+  - k8=0.2.5=h9a82719_1
+  - libcurl=7.62.0=h20c2e04_0
+  - libdeflate=1.2=h516909a_1
+  - libev=4.33=h7f8727e_1
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgfortran-ng=11.2.0=h00389a5_1
+  - libgfortran5=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnghttp2=1.52.0=ha637b67_1
+  - libssh2=1.10.0=h37d81fd_2
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - lz4-c=1.9.4=h6a678d5_0
+  - minimap2=2.17=h5bf99c6_4
+  - ncurses=6.1=he6710b0_1
+  - ont_vbz_hdf_plugin=1.0.1=h0ce7454_2
+  - openssl=1.1.1u=h7f8727e_0
+  - samtools=1.9=h10a08f8_12
+  - slow5tools=0.3.0=he001e6d_0
+  - xz=5.2.10=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_0
+  - zstd=1.5.5=hc292b87_0
+prefix: /home/raehash.shah/miniconda3/envs/slow5
